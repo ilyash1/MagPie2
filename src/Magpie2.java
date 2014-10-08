@@ -49,6 +49,18 @@ public class Magpie2
         {
             response = "Tell me more about your pets.";
         }
+        else if (statement.indexOf("guava") >= 0)
+        {
+            response = "GGGGGUUUUUUAAAAAVVVVAAAAA guava guava guava!";
+        }
+        else if (statement.indexOf("callipygian") >= 0)
+        {
+            response = "She got that booty beauty!";
+        }
+        else if (statement.indexOf("erinaceous") >= 0)
+        {
+            response = "You know, Martin Freeman is erinaceous.";
+        }
         else if (statement.indexOf("Tanczos") >= 0
                 || statement.indexOf("tanczos") >= 0)
         {
